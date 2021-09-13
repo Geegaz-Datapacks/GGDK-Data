@@ -2,8 +2,6 @@
 
 Add 8 new drinks to your game ! 
 
-*this datapack requires a resourcepack to work*
-
 ## Alcohol values
 - Strong drinks (Vodka, Tequila, Whiskey): 250
 - Wine: 100
