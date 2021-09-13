@@ -8,7 +8,7 @@
         }
     },
     "rewards": {
-        "function": "ggdk:crafting/tea",
+        "function": "ggdk:craft/tea",
         "loot": [
             "ggdk:items/tea"
         ]

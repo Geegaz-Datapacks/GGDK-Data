@@ -47,7 +47,7 @@ for id, data in drinks.items():
             }
         },
         "rewards": {
-            "function": f"ggdk:crafting/{id}",
+            "function": f"ggdk:craft/{id}",
             "loot": [
                 f"ggdk:items/{id}"
             ]

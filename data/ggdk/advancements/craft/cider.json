@@ -8,7 +8,7 @@
         }
     },
     "rewards": {
-        "function": "ggdk:crafting/cider",
+        "function": "ggdk:craft/cider",
         "loot": [
             "ggdk:items/cider"
         ]

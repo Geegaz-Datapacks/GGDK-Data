@@ -8,7 +8,7 @@
         }
     },
     "rewards": {
-        "function": "ggdk:crafting/whiskey",
+        "function": "ggdk:craft/whiskey",
         "loot": [
             "ggdk:items/whiskey"
         ]
