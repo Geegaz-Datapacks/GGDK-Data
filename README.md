@@ -1,4 +1,4 @@
-# GGDK - Geegaz's Drinks
+# GGDK (Geegaz's Drinks)
 
 Add 8 new drinks to your game ! 
 
