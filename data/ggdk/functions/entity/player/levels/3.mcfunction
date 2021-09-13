@@ -1,1 +1,2 @@
-effect give @s wither 1 1 true
+scoreboard players operation @s ggdk.var = $ggdk.lvl_1 ggdk.CONST
+kill @s[gamemode=!creative]
