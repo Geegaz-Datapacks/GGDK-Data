@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "crafted": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ggdk:whiskey"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ggdk:crafting/whiskey",
+        "loot": [
+            "ggdk:items/whiskey"
+        ]
+    }
+}

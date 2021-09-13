@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "crafted": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ggdk:cider"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ggdk:crafting/cider",
+        "loot": [
+            "ggdk:items/cider"
+        ]
+    }
+}

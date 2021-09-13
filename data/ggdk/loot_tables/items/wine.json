@@ -1,0 +1,30 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:potion",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "translate": "ggdk.item.wine",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{ctc:{id:\"wine\",from:\"geegaz:ggdk\"},CustomModelData:1702004}"
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{ggdk:{id:\"wine\"}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

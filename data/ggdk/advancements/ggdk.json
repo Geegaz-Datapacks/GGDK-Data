@@ -1,0 +1,23 @@
+{
+	"display": {
+			"title": {
+				"translate": "ggdk.advancement.main.title"
+			},
+			"description": {
+				"translate": "ggdk.advancement.main.description"
+			},
+			"icon": {
+				"item": "minecraft:potion",
+				"nbt": "{CustomModelData:1702001}"
+			},
+			"announce_to_chat": false,
+			"show_toast": false
+	},
+	"parent": "global:geegaz",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	
+	}
+}

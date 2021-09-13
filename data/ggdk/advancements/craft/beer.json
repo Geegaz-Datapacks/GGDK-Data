@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "crafted": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ggdk:beer"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ggdk:crafting/beer",
+        "loot": [
+            "ggdk:items/beer"
+        ]
+    }
+}

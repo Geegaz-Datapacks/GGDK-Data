@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "drink": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "nbt": "{ggdk:{id:\"tequila\"}}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "ggdk:item/tequila"
+    }
+}

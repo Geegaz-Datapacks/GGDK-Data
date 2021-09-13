@@ -1,0 +1,30 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:potion",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "translate": "ggdk.item.tea",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{ctc:{id:\"tea\",from:\"geegaz:ggdk\"},CustomModelData:1702008}"
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{ggdk:{id:\"tea\"}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "crafted": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ggdk:chocolate"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ggdk:crafting/chocolate",
+        "loot": [
+            "ggdk:items/chocolate"
+        ]
+    }
+}

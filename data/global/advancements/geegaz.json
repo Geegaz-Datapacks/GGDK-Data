@@ -1,0 +1,18 @@
+{
+	"display": {
+			"title": "Geegaz",
+			"description": "",
+			"icon": {
+				"item": "minecraft:player_head",
+				"nbt": "{SkullOwner:{Name: \"Geegaz\", Properties: {textures: [{Value: \"eyJ0aW1lc3RhbXAiOjE1NjE2MjAzNTQ3ODgsInByb2ZpbGVJZCI6IjlhNjY2ZmE2MjE1ODQ3ZDg5NDYyMTEyODNiODNiYTllIiwicHJvZmlsZU5hbWUiOiJHZWVnYXoiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNjZGI2NzMyYWJjMWM2OTVjY2ExOTJlMjQ0Nzc1MTU1ZGJiM2VmODQ5Y2NhZmI3NDc1ZDE4MTAyNTdlYWRiZiJ9fX0=\"}]}}}"
+			},
+			"show_toast": false,
+			"announce_to_chat": false
+	},
+	"parent": "global:root",
+	"criteria": {
+			"trigger": {
+					"trigger": "minecraft:tick"
+			}
+	}
+}

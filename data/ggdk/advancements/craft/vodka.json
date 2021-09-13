@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "crafted": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ggdk:vodka"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ggdk:crafting/vodka",
+        "loot": [
+            "ggdk:items/vodka"
+        ]
+    }
+}

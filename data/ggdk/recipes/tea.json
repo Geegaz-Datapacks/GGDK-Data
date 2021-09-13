@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+        {
+            "item": "minecraft:potion"
+        },
+        {
+            "item": "minecraft:string"
+        },
+        {
+            "item": "minecraft:dried_kelp"
+        },
+        {
+            "item": "minecraft:grass"
+        }
+    ],
+	"result": {
+		"item": "minecraft:knowledge_book"
+	}
+}

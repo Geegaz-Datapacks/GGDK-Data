@@ -1,0 +1,30 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:potion",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "translate": "ggdk.item.chocolate",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{ctc:{id:\"chocolate\",from:\"geegaz:ggdk\"},CustomModelData:1702007}"
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{ggdk:{id:\"chocolate\"}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

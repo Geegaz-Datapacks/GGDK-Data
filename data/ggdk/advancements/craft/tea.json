@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "crafted": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ggdk:tea"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ggdk:crafting/tea",
+        "loot": [
+            "ggdk:items/tea"
+        ]
+    }
+}

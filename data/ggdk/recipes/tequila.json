@@ -1,0 +1,35 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+        {
+            "item": "minecraft:potion"
+        },
+        {
+            "item": "minecraft:cactus"
+        },
+        {
+            "item": "minecraft:cactus"
+        },
+        {
+            "item": "minecraft:cactus"
+        },
+        {
+            "item": "minecraft:cactus"
+        },
+        {
+            "item": "minecraft:cactus"
+        },
+        {
+            "item": "minecraft:cactus"
+        },
+        {
+            "item": "minecraft:cactus"
+        },
+        {
+            "item": "minecraft:cactus"
+        }
+    ],
+	"result": {
+		"item": "minecraft:knowledge_book"
+	}
+}

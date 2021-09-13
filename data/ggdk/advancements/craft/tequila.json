@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "crafted": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ggdk:tequila"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ggdk:crafting/tequila",
+        "loot": [
+            "ggdk:items/tequila"
+        ]
+    }
+}
