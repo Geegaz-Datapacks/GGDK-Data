@@ -13,7 +13,7 @@ A food datapack for minecraft 1.17+ that adds 8 new drinks with various effects 
 ## Technical Information
 
 <details>
-    <summary>Alcohol values</summary>
+    <summary style="font-size:12pt;font-weight:bold">Alcohol values</summary>
 
 - Strong drinks (Vodka, Tequila, Whiskey): 250
 - Wine: 100
@@ -23,7 +23,7 @@ A food datapack for minecraft 1.17+ that adds 8 new drinks with various effects 
 </details>
 
 <details>
-    <summary>Drink effects</summary>
+    <summary style="font-size:12pt;font-weight:bold">Drink effects</summary>
 
 - Strong drinks (Vodka, Tequila, Whiskey): Resistance II *(2min)* + Strength II *(2min)*
 - Wine: Instant Health II
@@ -34,7 +34,7 @@ A food datapack for minecraft 1.17+ that adds 8 new drinks with various effects 
 </details>
 
 <details>
-    <summary>How to add your own drinks</summary>
+    <summary style="font-size:12pt;font-weight:bold">How to add your own drinks</summary>
 
 Adding new drinks is extremely easy, using the `generate_drinks.py` script:
 1. First create the texture and model in the resourcepack (don't hesitate to copy one of the existing item models if you're not sure how to do it). How you structure the resourcepack is all up to you, but you should add your CMD overrides in `minecraft/models/item/potion.json`.
