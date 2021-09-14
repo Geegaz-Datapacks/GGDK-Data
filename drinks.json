@@ -3,31 +3,31 @@
         "alcohol_value": 250,
         "custom_model_data": 1702001,
         "effects": [
-            {"name":"minecraft:resistance","seconds":120,"amplifier":0},
-            {"name":"minecraft:strength","seconds":120,"amplifier":0}
+            {"name":"minecraft:resistance","seconds":120,"amplifier":1},
+            {"name":"minecraft:strength","seconds":120,"amplifier":1}
         ]
     },
     "vodka": {
         "alcohol_value": 250,
         "custom_model_data": 1702002,
         "effects": [
-            {"name":"minecraft:resistance","seconds":120,"amplifier":0},
-            {"name":"minecraft:strength","seconds":120,"amplifier":0}
+            {"name":"minecraft:resistance","seconds":120,"amplifier":1},
+            {"name":"minecraft:strength","seconds":120,"amplifier":1}
         ]
     },
     "whiskey": {
         "alcohol_value": 250,
         "custom_model_data": 1702003,
         "effects": [
-            {"name":"minecraft:resistance","seconds":120,"amplifier":0},
-            {"name":"minecraft:strength","seconds":120,"amplifier":0}
+            {"name":"minecraft:resistance","seconds":120,"amplifier":1},
+            {"name":"minecraft:strength","seconds":120,"amplifier":1}
         ]
     },
     "wine": {
         "alcohol_value": 100,
         "custom_model_data": 1702004,
         "effects": [
-            {"name":"minecraft:instant_health","seconds":1,"amplifier":2}
+            {"name":"minecraft:instant_health","seconds":1,"amplifier":1}
         ]
     },
     "beer": {
