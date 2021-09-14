@@ -38,7 +38,7 @@ Adding new drinks is extremely easy, using the `generate_drinks.py` script:
     ]
 }
 ```
-5. Finally, run `generate_drinks.py` either by double-clicking the script or in command line using `python .generate_drinks.py`. This requires you to have python installed though, you can find an installer at https://www.python.org/downloads/
+5. Finally, run `generate_drinks.py` either by double-clicking the script or in command line using `python generate_drinks.py`. This requires you to have python installed though, you can find an installer at https://www.python.org/downloads/
 6. **If you followed these steps properly, your new drink should now be working ingame !**
 
 *For more info about CustomModelData, check out [this forum post](https://www.planetminecraft.com/forums/communities/texturing/new-1-14-custom-item-models-tuto-578834/).*
