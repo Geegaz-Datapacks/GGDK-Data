@@ -2,6 +2,8 @@
 
 A food datapack for minecraft 1.17+ that adds 8 new drinks with various effects and alcohol mechanics
 
+*this datapack requires a resourcepack to work*
+
 ## Alcohol values
 - Strong drinks (Vodka, Tequila, Whiskey): 250
 - Wine: 100
