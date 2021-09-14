@@ -1,5 +1,6 @@
 # GGDK (Geegaz's Drinks)
 
+![GGDK banner image](/img/banner.png)
 A food datapack for minecraft 1.17+ that adds 8 new drinks with various effects and alcohol mechanics
 
 *this datapack requires a resourcepack to work*
